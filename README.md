@@ -9,7 +9,8 @@ It integrates with external weather APIs like OpenWeatherMap to fetch weather da
 <br>
 <br>
 <br>
-#Development Tools:
+# Development Tools:
+<br>
 Eclipse IDE: Used for development with features like code completion, debugging, and integrated server deployment.
 
 Servlet API and JSP: Core functionality implemented using Java Servlets for backend processing and JSP for dynamic content generation.
@@ -21,7 +22,7 @@ External APIs: Integrates with weather APIs to fetch accurate and timely weather
 ![Screenshot 2025-01-16 000534](https://github.com/user-attachments/assets/8867e7ce-9b37-490a-a255-d5d47f0334c4)
 <br>
 <br>
-#Key Features:
+# Key Features:
 <br>
 User Input: Users can input a city name or zip code to fetch weather data.
 
