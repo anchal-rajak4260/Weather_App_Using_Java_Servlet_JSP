@@ -31,6 +31,7 @@ User Input: Users can input a city name or zip code to fetch weather data.
 <br>
 Weather Data Display: The app displays current weather conditions such as temperature, humidity, wind speed, visibility, and weather conditions (sunny, cloudy, rainy, etc.).
 
+
 Dynamic Content: Uses JSP to dynamically generate HTML content based on the fetched weather data.
 
 User-Friendly Interface: Designed with HTML and CSS for a seamless user experience.
